@@ -1,0 +1,18 @@
+TABLE OF CONTENT
+0:00:00 Course Intro  / OK
+0:02:12 Prerequisites / OK
+0:03:16 Next.js Fundamentals / OK
+0:03:54 What is Next.js? / OK
+0:06:34 Setting Up the Development Environment / OK
+0:07:59 Creating Your First Next.js Project / OK
+0:10:21 Project Structure / OK
+0:13:10 Routing and Navigation / OK
+0:18:25 Client and Server Components / OK
+0:27:19 Data Fetching / OK
+0:33:23 Caching / OK
+0:35:48 Static and Dynamic Rendering / OK
+0:39:56 Styling Next.js Applications / OK
+0:40:16 Global Styles / OK
+0:42:50 CSS Modules / OK
+0:47:17 Tailwind CSS / OK
+0:54:56 DaisyUI
